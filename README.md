@@ -1,2 +1,3 @@
-# 3D-GPHM
-[ECCV 2024] Official repository for "3D Gaussian Parametric Head Model"
+# 3D Gaussian Parametric Head Model
+## [Paper] | [Project Page]
+<img src="imgs/teaser.jpg" width="840" height="396"/> 
